@@ -1,6 +1,4 @@
-Here is a **sample `README.md`** for your GitHub repo `AttendanceBotCBIT`, describing your Telegram bot for CBIT attendance scraping and how to use it. This covers project purpose, requirements, setup, environment variables, and usage.
 
-```markdown
 # AttendanceBotCBIT
 
 Get your latest and subject-wise **CBIT ERP attendance** instantly on Telegram!
