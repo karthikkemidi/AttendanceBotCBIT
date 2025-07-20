@@ -12,7 +12,7 @@ Get your latest and subject-wise **CBIT ERP attendance** instantly on Telegram!
 
 ## Screenshot
 
-![Dashboard Screenshot](error_debug.jpg)
+![Dashboard Screenshot](error_debug.png)
 
 ## Requirements
 
@@ -87,4 +87,3 @@ Built & maintained by [Karthik Kemidi](https://github.com/karthikkemidi) (CSE AI
 
 *This project is for educational use only. It does not store your passwords or any personal data.*
 
-```
